@@ -1,0 +1,9 @@
+D:\documents\programivania\sharp\Program1\Program1\bin\Debug\Program1.exe.config
+D:\documents\programivania\sharp\Program1\Program1\bin\Debug\Program1.exe
+D:\documents\programivania\sharp\Program1\Program1\bin\Debug\Program1.pdb
+D:\documents\programivania\sharp\Program1\Program1\obj\Debug\Program1.Form1.resources
+D:\documents\programivania\sharp\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+D:\documents\programivania\sharp\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+D:\documents\programivania\sharp\Program1\Program1\obj\Debug\Program1.exe
+D:\documents\programivania\sharp\Program1\Program1\obj\Debug\Program1.pdb
+D:\documents\programivania\sharp\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
